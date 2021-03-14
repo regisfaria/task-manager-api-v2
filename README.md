@@ -34,4 +34,7 @@ yarn dev
 
 server will be listening on port 3333, make sure it is available or change it on src/server.js.
 
+## Contact
+Email: regisprogramming@gmail.com
 
+[LinkedIn](https://www.linkedin.com/in/regissfaria/), [GitHub](https://github.com/regisfaria) and [GitLab](https://gitlab.com/regisfaria) profiles
